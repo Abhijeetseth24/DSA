@@ -1,3 +1,4 @@
+https://practice.geeksforgeeks.org/problems/next-right-node/1
 class Solution{
 	Node nextRight(Node root, int key)
     {
